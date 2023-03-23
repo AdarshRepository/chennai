@@ -238,6 +238,7 @@ select.countryC {display: inline-block;}
 	.location-box-details ul li{width: 50%;}
 	.top-strips-inner h3{font-size: 20px;}
 	.feature-inner-img{min-height: 476px;}
+	.bannervideo iframe{height: 575px;}
 }
 
 @media only screen and (max-width: 992px){
@@ -263,16 +264,18 @@ select.countryC {display: inline-block;}
 	.feature-inner-details{padding: 30px 20px;}
 	.contact-inner-details{padding: 30px 20px;}
 	.footer-side-widegts{display: block;}
-	
+	.bannervideo iframe{height: 450px;}
 }
 
 @media only screen and (max-width: 767px){
 	.top-strips-inner h3 span{display: inline;}
 	#exteriors-owl-demo .item, #interiors-owl-demo .item, #amenities-owl-demo .item{margin: 1px;}
 	.customNavigation{margin-top: 5px;}
+	.bannervideo iframe{height: 420px;}
 }
 @media only screen and (max-width: 500px){
 	.gallerytab button{padding: 8px 30px;}
+	.bannervideo iframe{height: 285px;}
 }
 @media only screen and (max-width: 450px){
 	.top-strips-inner h3{font-size: 15px;}
@@ -284,6 +287,7 @@ select.countryC {display: inline-block;}
 	.contact-inner-details h2{font-size: 40px;}
 	.gallerytab button{padding: 6px 22px;}
 	.rera-details p{text-align: left;line-height: 1.5;}
+	.bannervideo iframe{height: 250px;}
 }
 
 @media only screen and (max-width: 425px){
